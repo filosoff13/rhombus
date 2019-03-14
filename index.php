@@ -37,7 +37,7 @@ $height = (
 		<form action="" method="get">
 			<fieldset>
 				<legend>enter params</legend>
-                <label for="height">height:</label>
+                <label for="height">height(only even value):</label>
 				<input type="text" id="height" name="height" value="<?=$height?>">
 				<input type="submit" value="generate">
 			</fieldset>
