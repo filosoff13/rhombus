@@ -18,6 +18,3 @@ $height = (
 
 $app = new Rhombus($height);
 die($app->draw());
-
-
-
